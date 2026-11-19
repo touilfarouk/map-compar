@@ -1,3 +1,5 @@
+AIzaSyCGjIm3Sil1WxWqa7qv1tSGtPRTNeBPEu0
+
 # Atlas Compare
 
 Atlas Compare is a responsive map-comparison workspace built with Leaflet. Select different map sources for each panel, compare measurements, and load local KML or GeoJSON data without uploading files to a server.
